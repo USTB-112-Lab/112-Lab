@@ -1,0 +1,32 @@
+[
+  {
+    "name": "杜宏武",
+    "photo": "assets/faculty/du-hongwu.jpg",
+    "page": "https://huasheng.ustb.edu.cn/szdw/jsml/90825fd77f77423caae806df46f91100.htm",
+    "image": "https://huasheng.ustb.edu.cn/images/2025-03/acd609a5a8384375988781224881f472.jpg"
+  },
+  {
+    "name": "张鹏",
+    "photo": "assets/faculty/zhang-peng.jpg",
+    "page": "https://huasheng.ustb.edu.cn/szdw/jsml/1155fa6ac4334f27a3dc4dea9bd7de38.htm",
+    "image": "https://huasheng.ustb.edu.cn/images/2026-08/3a68067bf2434479a6e2ed5c7dcc1395.jpg"
+  },
+  {
+    "name": "刘佳",
+    "photo": "assets/faculty/liu-jia.jpg",
+    "page": "https://huasheng.ustb.edu.cn/szdw/jsml/455a6a2d19604426b35db160f60a8dae.htm",
+    "image": "https://huasheng.ustb.edu.cn/images/2026-08/8b958a896077465186d55a3efefc2696.jpg"
+  },
+  {
+    "name": "王芳",
+    "photo": "assets/faculty/wang-fang.jpg",
+    "page": "https://huasheng.ustb.edu.cn/szdw/jsml/ef9f639fbaaa42688132b18352bf57b7.htm",
+    "image": "https://huasheng.ustb.edu.cn/images/2026-08/1e07f4ecd08541f0ae1ce8d87e4fba58.jpg"
+  },
+  {
+    "name": "幸岑璨",
+    "photo": "assets/faculty/xing-cencan.png",
+    "page": "https://huasheng.ustb.edu.cn/szdw/jsml/cb1dc1b1332b41fe890321c7713bdf3e.htm",
+    "image": "https://huasheng.ustb.edu.cn/images/2026-08/913e86aa7c464a5fb5bf2c9f4f307607.png"
+  }
+]
