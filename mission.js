@@ -1,0 +1,3 @@
+const missionText = "北科大112实验室从2006年成立至今，始终致力于生命健康原创研究，以为国选才育才为己任。我们希望能够探索人类疾病发病开关，找到关键致病分子，源头创新研发新型药物和快速灵敏检测方法，让人不得病、少得病、晚得病、健健康康活着，造福大众。112将尽力为大家提供宽松自由的学习环境、客观科学的实验平台、务实求真的辅导支持。我们不拘一格，因材施教，不管你喜欢生物、医学、物理、化学、材料，还是愿意从事现代生物信息、人工智能体、开发软件、组装仪器。在这里，我们都有成熟的技术和优秀的老师会给你提供帮助。我们不拘一格，唯才是举，提倡早毕业早入职早挣钱，不鼓励躺平，不鼓励延期，拒绝拖延症；我们希望看到大家在这里能尽快找到自己喜欢的研究方向，尽快找到合适位置融入集体，尽早学成毕业，为国效力。";
+
+const missionAffiliations = ["112 Lab, School of Chemistry and Biological Engineering, University of Science and Technology Beijing, Beijing 100083, China.", "112 Lab, Daxing Research Institute, University of Science and Technology Beijing, Beijing 100083, China.", "112 Lab, Daxing Research Institute, University of Science and Technology Beijing, Beijing 100083, China."];
